@@ -151,12 +151,6 @@ Additional documentation, screenshots, demo videos, and public releases will be 
 
 ---
 
-## Screenshots
-
-Coming soon.
-
----
-
 ## Roadmap
 
 Near-term priorities:
